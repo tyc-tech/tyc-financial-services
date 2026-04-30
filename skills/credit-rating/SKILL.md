@@ -23,7 +23,6 @@ version: 1.0
 - `get_company_registration_info` — 工商基础
 - `get_financial_data` — 财务表现
 - `get_company_scale` — 企业规模
-- `get_enterprise_report_basic` — 基础信用报告
 
 ### Step 2: 信用加分项
 - `get_credit_evaluation` — 信用评价

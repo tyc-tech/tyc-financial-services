@@ -23,11 +23,9 @@ ESG 基金投前筛选、绿色信贷审批、可持续投资 due diligence、ES
 - `get_environmental_penalty` — 环境行政处罚
 - `get_land_mortgage_info` — 土地使用（含 EIA 间接信号）
 - `get_administrative_license` — 环评许可（若有 EIA 类许可）
-- `get_historical_environmental_penalty` — 历史环保处罚
 
 ### Step 2: S（社会）维度
 - `get_recruitment_info` — 招聘（用工规模与合规信号）
-- `get_disciplinary_list` — 劳动监察黑名单
 - `get_administrative_penalty` — 行政处罚（筛选涉劳动 / 涉消费者项）
 - `get_company_scale` — 员工规模与参保人数
 - `get_import_export_credit` — 海关信用（供应链 S 维度）

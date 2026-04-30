@@ -160,12 +160,12 @@ Claude: 生成 TOP 5 深度画像 + Go/No-Go 建议
 
 ## 6. 天眼查 MCP 集成
 
-单一 `tyc` MCP server，23 SKILL 共享业务语义聚合层 167 个工具：
+单一 `tyc` MCP server，23 SKILL 共享业务语义聚合层 163 个工具：
 
 | Go 包 | 工具数 | 本仓重点使用 |
 |-------|--------|--------------|
-| `company` | 52 | 工商 / 股东 / 财务（invest 全部）+ 股权图谱（equity-graph）+ 园区（park-research）|
-| `risk` | 36 | 尽调风险扫描 / 诉讼 / ESG |
+| `company` | 49 | 工商 / 股东 / 财务（invest 全部）+ 股权图谱（equity-graph）+ 园区（park-research）|
+| `risk` | 35 | 尽调风险扫描 / 诉讼 / ESG |
 | `operation` | 32 | 融资 / 招投标 / 私募基金（pf-compliance）|
 | `executive` | 15 | 高管背调（exec-bg）|
 | `history` | 18 | 融资历史 / 趋势分析 |
